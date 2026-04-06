@@ -1,5 +1,5 @@
 {
-    "name": "codecraft/php-uiautomator",
+    "name": "codecraft-php/php-uiautomator",
     "description": "Android UI automation for PHP, built on top of xvq/php-adb",
     "type": "library",
     "require": {
