@@ -11,7 +11,7 @@ PHP UiAutomator allows automating interactions with Android applications via ADB
 Make sure you have Composer installed, then run:
 
 ```bash
-composer require codecraft/php-uiautomator
+composer require codecraft-php/php-uiautomator
 ```
 
 ## Prerequisites
