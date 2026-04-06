@@ -1,0 +1,22 @@
+{
+    "name": "codecraft/php-uiautomator",
+    "description": "Android UI automation for PHP, built on top of xvq/php-adb",
+    "type": "library",
+    "require": {
+        "xvq/php-adb": "^1.0",
+        "react/react": "^1.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Codecraft\\PhpUiautomator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CodeCraft-php",
+            "email": "codecraft731@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
